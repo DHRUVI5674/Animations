@@ -40,13 +40,13 @@ This project was created to explore the creativity of web design using only fron
 
 ## 📷 Preview
 
-Add your project screenshot or GIF here.
+![Project Preview](https://res.cloudinary.com/db3htfvvx/image/upload/v1778484082/Screenshot_2026-05-11_125001_ow6uoj.png)
 
 ---
 
 ## 🔗 Live Demo
 
-Add your deployed project link here.
+https://html-css-animation-01.netlify.app
 
 ---
 
@@ -57,7 +57,7 @@ Add your deployed project link here.
 3. Run the `index.html` file in your browser
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/DHRUVI5674/Animations.git
 ```
 
 ---
